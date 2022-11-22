@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Software Engineering student at Beykent University. I am interested in OOP Languages (Java, C++).
 
 *   🌍  I'm based in Istanbul
-*   ✉️  You can contact me at [Tayfun-doganay@hotmail.com](mailto:Tayfun-doganay@hotmail.com)
+*   ✉️  You can contact me at [Tayfun-doganay@outlook.com](mailto:Tayfun-doganay@outlook.com)
 *   🧠  I'm learning Java Spring, Testing with JUnit and Docker.
 
 
